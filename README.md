@@ -1,7 +1,7 @@
 ### Hi! I'm Bruno Antenucci and I'm looking to start a career in web development
 ### In order to do so I completed Henry, a challenging 4 month bootcamp where I've learned the fundamentals of programming, data structures and algorithms using tecnologies such as JavaScript, NodeJS, Express, Sequelize, Mongoose, React, Redux, HTML and CSS
 ### Besides the tech I have a lot of other skills aquired in my old career in the travel industry that can translate well in the development business
-### Lets meet!
+### Let's meet!
 ### You can contact me at brunoesantenucci@gmail.com 
 ### LinkdIn: https://www.linkedin.com/in/bruno-antenucci-full-stack/
 ### Mobile: +5491162753048
